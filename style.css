@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    background-color: black;
+    padding: 10px 20px;
+    overflow: hidden;
+}
+p {
+    color: white;
+    font-family:monospace;
+    font-size: 25px;
+    font-weight:bolder;
+    margin: 5px 0px;
+    left : 300px;
+    position:relative;
+}
+.button{
+    border-radius: 5px;
+    width:150px;
+    font-family:monospace;
+    font-weight: bolder;
+    height: 36px;
+    position: absolute;
+    font-size: 20px;
+    color: rgb(48, 48, 48);
+    background-color: rgb(122, 133, 219);
+    top : 407px;
+    left : 325px;
+}
