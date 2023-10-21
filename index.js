@@ -5,7 +5,6 @@ const score = document.querySelector('#score')
 const startButton = document.getElementById('startButton')
 const tscore = document.querySelector('#tscore')
 let started = false
-//let pacmanEatDot = new Audio('./sound/pacman mange dot.mp3')
 let leader = false
 let playerNumber = 0;
 
